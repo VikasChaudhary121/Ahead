@@ -26,7 +26,7 @@ const ImprovementSection: React.FC = () => {
           <div className="content flex items-start sm:w-9/12 md:4/12 w-10/12 place-content-center">
             <div className="w-4 h-4 rounded-full bg-blue-800 mt-1"></div>
             <div className="ml-8 mb-4">
-              <h3 className="text-xl font-semibold">It's not as easy as 1-2-3.</h3>
+              <h3 className="text-xl font-semibold">It&apos;s not as easy as 1-2-3.</h3>
               <p>The journey of change may be long, but our sessions are quick. We get to the point and tell you what you want to know (and nothing else).</p>
             </div>
           </div>
@@ -47,7 +47,7 @@ const ImprovementSection: React.FC = () => {
           <div className="content flex items-start sm:w-9/12 md:4/12 w-10/12">
             <div className="w-4 h-4 rounded-full bg-blue-800 mt-1"></div>
             <div className="ml-8">
-              <h3 className="text-xl font-semibold">Books just don't offer practical solutions.
+              <h3 className="text-xl font-semibold">Books just don&apos;t offer practical solutions.
               </h3>
               <p>Remember when you learned to ride a hike just by reading? yeah we don&apos;t either.</p>
             </div>
