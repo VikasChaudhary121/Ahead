@@ -40,7 +40,7 @@ const ImprovementSection: React.FC = () => {
           <div className="content flex items-start mb-4 sm:w-9/12 md:4/12 w-10/12">
             <div className="w-4 h-4 rounded-full bg-blue-800 mt-1"></div>
             <div className="ml-8">
-              <h3 className="text-xl font-semibold">You and your motivation don't have a long-term relationship.</h3>
+              <h3 className="text-xl font-semibold">You and your motivation do not have a long-term relationship.</h3>
               <p>Luckily, we can proactively prepare you for the marathon, not just the race.Effectively, memorable exercise will help you stick to your goals.</p>
             </div>
           </div>
