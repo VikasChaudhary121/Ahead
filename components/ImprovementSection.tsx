@@ -49,7 +49,7 @@ const ImprovementSection: React.FC = () => {
             <div className="ml-8">
               <h3 className="text-xl font-semibold">Books just don't offer practical solutions.
               </h3>
-              <p>Remember when you learned to ride a hike just by reading? yeah we don't either.</p>
+              <p>Remember when you learned to ride a hike just by reading? yeah we don&apos;t either.</p>
             </div>
           </div>
         </div>
